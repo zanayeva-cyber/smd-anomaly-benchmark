@@ -1,0 +1,8 @@
+# Проверено на Python 3.14.4, Windows 10, CPU Intel Core i5-12400.
+# Tested with Python 3.14.4, Windows 10, CPU Intel Core i5-12400.
+# PyTorch CPU: pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+numpy==2.5.3
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+torch==2.14.1

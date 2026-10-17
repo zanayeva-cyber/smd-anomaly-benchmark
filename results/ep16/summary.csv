@@ -1,0 +1,5 @@
+method,f1,f1_pa,event_recall,delay_median,false_alarms_per_day,normal_time_in_alarm,seconds
+lstm,0.414,0.959,0.867,1.0,11.559,0.088,9.851
+lstm_ae,0.402,0.934,0.857,1.5,8.618,0.101,20.608
+lstm_cusum,0.215,0.274,0.853,0.0,0.442,0.792,10.131
+lstm_cusum_adapt,0.145,0.264,0.387,0.0,0.477,0.277,10.318

@@ -1,0 +1,10 @@
+# данные загружаются скриптом download_smd.py / data are fetched by download_smd.py
+data/
+# крупные сохранённые меры аномальности / large saved anomaly scores
+results/*/scores/
+results/scores_*.npz
+results/_smoke/
+*.log
+__pycache__/
+.venv/
+venv/

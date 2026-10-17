@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "SMD anomaly detection benchmark: code for the experimental evaluation of anomaly detection methods for telemetry"
+authors:
+  - family-names: Pashaev
+    given-names: Magomed Yaragievich
+    affiliation: "Grozny State Oil Technical University named after Academician M. D. Millionshchikov"
+  - family-names: Zanaeva
+    given-names: Zina Salgerievna
+    affiliation: "Grozny State Oil Technical University named after Academician M. D. Millionshchikov"
+license: MIT
+version: "1.0.0"
+date-released: 2026-10-16
+preferred-citation:
+  type: article
+  title: "Anomaly detection methods for telecommunication equipment telemetry: an analytical review and comparative assessment"
+  authors:
+    - family-names: Pashaev
+      given-names: Magomed Yaragievich
+    - family-names: Zanaeva
+      given-names: Zina Salgerievna
+  journal: "Systems of Control, Communication and Security"
+  year: 2026
+  notes: "Submitted. Russian title: «Методы обнаружения аномалий в телеметрии телекоммуникационного оборудования: аналитический обзор и сравнительная оценка»."
